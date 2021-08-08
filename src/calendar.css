@@ -1,6 +1,6 @@
 /*全体*/
 .wrapper {
-  width: 200px;
+  width: 250px;
   margin: 0 auto;
   color: #666;
 }
@@ -31,8 +31,7 @@ th {
 th,
 td {
   outline: 1px solid #ddd;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding: 10px;
   text-align: center;
 }
 
